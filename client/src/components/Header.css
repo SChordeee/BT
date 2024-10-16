@@ -1,0 +1,27 @@
+/* client/src/components/Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #2d3748;
+    color: white;
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+  }
+  
+  .connect-btn {
+    padding: 10px 20px;
+    background-color: #4299e1;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .connect-btn:hover {
+    background-color: #3182ce;
+  }
+  

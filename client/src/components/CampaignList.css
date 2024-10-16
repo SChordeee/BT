@@ -1,0 +1,30 @@
+/* client/src/components/CampaignList.css */
+.campaign-list {
+    margin: 20px;
+    background-color: #e2e8f0;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .campaign-item {
+    border-bottom: 1px solid #cbd5e0;
+    padding: 10px 0;
+  }
+  
+  .campaign-item h3 {
+    margin: 0;
+  }
+  
+  .donate-btn {
+    background-color: #ed64a6;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .donate-btn:hover {
+    background-color: #d53f8c;
+  }
+  

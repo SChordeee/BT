@@ -1,0 +1,39 @@
+/* client/src/components/CreateCampaign.css */
+.create-campaign {
+    background-color: #edf2f7;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+  }
+  
+  .create-campaign h2 {
+    margin-bottom: 20px;
+  }
+  
+  .create-campaign label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .create-campaign input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #cbd5e0;
+    border-radius: 5px;
+  }
+  
+  .create-btn {
+    background-color: #48bb78;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .create-btn:hover {
+    background-color: #38a169;
+  }
+  
